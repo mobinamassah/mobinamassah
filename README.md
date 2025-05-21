@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 - 🎓 Computer Engineering Student
-- - 💻 Backend Developer and System Programmer  
+- 💻 Backend Developer and System Programmer  
 - 📍 Based in Iran 
 - 👩‍💻 Skilled in **C**, **C++**, **Python**, **Java**, **MySQL**
 - 💻 Experienced in building **practical and user-oriented applications** using **Qt**
