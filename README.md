@@ -27,7 +27,6 @@
 
 ---
 
-## 📌 Pinned Projects
 
 ## 📌 Pinned Projects
 
