@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Mobina Massah
 
 🎓 A Computer Engineering student specializing in **Software Engineering**  
-💡 Passionate about building real-world software and learning software testing  
-📍 Based in Iran
 
 ---
 
@@ -31,17 +29,27 @@
 
 ## 📌 Pinned Projects
 
-- 🧮 [microprocessor-calculator](https://github.com/mobinamassah/microprocessor-calculator)  
-  A calculator implemented in C++ simulating microprocessor instructions and logic.
+## 📌 Pinned Projects
 
-- 🧠 [memory-hierarchy-simulator](https://github.com/mobinamassah/memory-hierarchy-simulator)  
-  A simulation tool for memory hierarchy (cache, main memory) focusing on performance analysis.
+### 🧠 [microprocessor-calculator](https://github.com/mobinamassah/microprocessor-calculator) `C++`
+🔹 A simulator and calculator for microprocessor-level operations using C++ and system-level logic.
 
-- 📊 [DB-Project](https://github.com/Saba-Ra/DB-Project)  
-  University database project using MySQL, showcasing relational schema design and SQL queries. *(Collaborative)*
+---
 
-- 🛠️ [SE-project](https://github.com/sana144/SE-project)  
-  A Software Engineering team project following best practices in modular design and documentation. *(Collaborative)*
+### 🧮 [memory-hierarchy-simulator](https://github.com/mobinamassah/memory-hierarchy-simulator) `C++`
+🔹 A memory hierarchy simulation tool with configurable cache and RAM settings for performance analysis.
+
+---
+
+### 🗂️ [SE-project](https://github.com/sana144/SE-project)
+🔹 A collaborative Software Engineering project, designed based on modular principles and teamwork.
+
+---
+
+### 🧾 [DB-Project](https://github.com/Saba-Ra/DB-Project) `SQL`
+🔹 A database course project involving ERD modeling, relational schema design, and queries.
+
+
 
 ---
 
