@@ -44,11 +44,14 @@
 ---
 
 ### 🧾 [DB-Project](https://github.com/Saba-Ra/DB-Project) `SQL`
-🔹 A database course project 
+🔹 A database course project
+
 ---
 
 ### 📩 [Messenger_project](https://github.com/mobinamassah/Messenger_project) `C++`
 🔹 A  messenger app 
+
+---
 
 
 ## 🌐 Connect with Me
