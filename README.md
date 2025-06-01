@@ -30,26 +30,26 @@
 ## 📌 Pinned Projects
 
 ### 🧠 [microprocessor-calculator](https://github.com/mobinamassah/microprocessor-calculator) `C++`
-🔹 A simulator and calculator for microprocessor-level operations using C++ and system-level logic.
-
+🔹 A simulator and calculator for microprocessor-level operations 
 ---
 
 ### 🧮 [memory-hierarchy-simulator](https://github.com/mobinamassah/memory-hierarchy-simulator) `C++`
-🔹 A memory hierarchy simulation tool with configurable cache and RAM settings for performance analysis.
+🔹 A memory hierarchy simulation 
 
 ---
 
 ### 🗂️ [SE-project](https://github.com/sana144/SE-project)
-🔹 A collaborative Software Engineering project, designed based on modular principles and teamwork.
+🔹 A collaborative Software Engineering project
 
 ---
 
 ### 🧾 [DB-Project](https://github.com/Saba-Ra/DB-Project) `SQL`
-🔹 A database course project involving ERD modeling, relational schema design, and queries.
-
-
-
+🔹 A database course project 
 ---
+
+### 📩 [Messenger_project](https://github.com/mobinamassah/Messenger_project) `C++`
+🔹 A  messenger app 
+
 
 ## 🌐 Connect with Me
 
