@@ -9,8 +9,7 @@
 - 💻 Backend Developer and System Programmer  
 - 📍 Based in Iran 
 - 👩‍💻 Skilled in **C**, **C++**, **Python**, **Java**, **MySQL**
-- 💻 Experienced in building **practical and user-oriented applications** using **Qt**
-- 🌱 Currently exploring and learning **Software Testing** (unit tests, integration tests, QA fundamentals)
+- 🌱 Currently exploring and learning **Software Testing** (unit tests, integration tests)
 
 ---
 
